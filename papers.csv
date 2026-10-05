@@ -1,0 +1,4 @@
+paper_id,title,year,topic,local_filename
+P001,"fastMRI: A Publicly Available Raw k-Space and DICOM Dataset of Knee Images for Accelerated MR Image Reconstruction Using Machine Learning",2020,"fastMRI / MRI Reconstruction","knoll-et-al-2020-fastmri-a-publicly-available-raw-k-space-and-dicom-dataset-of-knee-images-for-accelerated-mr-image-reconstruction-using-machine-learning.pdf"
+P002,"Learning a Variational Network for Reconstruction of Accelerated MRI Data",2018,"Variational Network / MRI Reconstruction","nihms928633.pdf"
+P003,"Accelerated MRI reconstructions via variational network and feature domain learning",2024,"Variational Network / Deep Learning MRI","s41598-024-59705-0.pdf"
